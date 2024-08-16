@@ -5,7 +5,7 @@ import pyspark.sql.types as T
 
 # COMMAND ----------
 
-# MAGIC %md # CATALOG / SCHEMAS
+# MAGIC %md # CATALOG / SCHEMAS / AND MORE
 
 # COMMAND ----------
 
